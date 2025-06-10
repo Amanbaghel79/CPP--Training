@@ -1,0 +1,1 @@
+//static variable are not thread safe we have to use mutex to do thread synchronysation.
